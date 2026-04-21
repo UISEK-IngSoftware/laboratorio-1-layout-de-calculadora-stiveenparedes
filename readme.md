@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Stiveen Hernán Paredes López
+- **Carrera**: Ingeniería de software
+- **Fecha de entrega**: 20 de abril de 2026
 
 ---
 
